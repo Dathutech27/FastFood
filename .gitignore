@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+*.pdb
+*.obj
+*.o
+*.ncb
+*.vc.db
+*.sln.docstates
+*.vshost.*
+[Dd]ebug/
+[Rr]elease/
+_ReSharper.*/
+[Tt]humbs.db
+*.csproj.user
+*.vcxproj.user
+*.vcxproj.filters
+*.log
+packages/
